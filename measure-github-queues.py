@@ -3,8 +3,8 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 
 import os
 
-import librato
 import github3
+import librato
 
 
 # Grab config from the environment.
